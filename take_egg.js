@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        ptf eggs
+// @name        eggs
 // @namespace   PBIAL
 // @description turn off autoplay
-// @include     https://ptfiles.net/details.php*
+// @include     
 // @version     1
 // @grant       none
 // ==/UserScript==
